@@ -374,7 +374,7 @@ DEFINE VALUE_SET
               END VSET_DEPENDS_ON
 END VALUE_SET
 
-# -- End Entity Definitions -- 
+# -- End Entity Definitions --- 
 
 
 BEGIN EXECUTABLE "XXHRCP01" "XXHR"
